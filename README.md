@@ -21,6 +21,4 @@ Lecture_8 -> OOPS part - 1  (Abstraction and Encapsulation)
 
 Lecture_9 -> OOPS part - 2  (Inheritance and Polymorphism)
 
-For lecture slides :- https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov
 
-For video explaination :- https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=5bYPCxriDbe6Pd8S
